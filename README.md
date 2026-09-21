@@ -44,7 +44,7 @@ This project evaluates performance metrics across 1,000 logistics tracking recor
 ## Dashboard Preview
 
 
-![Project Screenshot](5-Dashboard/Dashboard Image.png)
+![Project Screenshot](5-Dashboard//Dashboard Image.png)
 
 
 ## Data Pipeline & Workflow Architecture
