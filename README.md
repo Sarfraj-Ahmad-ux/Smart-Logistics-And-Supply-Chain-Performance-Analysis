@@ -44,7 +44,8 @@ This project evaluates performance metrics across 1,000 logistics tracking recor
 ## Dashboard Preview
 
 
-*Figure 1: Interactive Power BI Dashboard summarizing asset performance, delay factors, and inventory health.*
+![Project Screenshot]([images/screenshot.p(https://github.com/Sarfraj-Ahmad-ux/Smart-Logistics-And-Supply-Chain-Performance-Analysis/blob/37245e39fd9412599bbde69332570639790bb4ee/5-Dashboard/Dashboard%20Image.png))
+
 
 ## Data Pipeline & Workflow Architecture
 
