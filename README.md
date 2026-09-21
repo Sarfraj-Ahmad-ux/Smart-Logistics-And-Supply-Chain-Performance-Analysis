@@ -44,7 +44,7 @@ This project evaluates performance metrics across 1,000 logistics tracking recor
 ## Dashboard Preview
 
 
-![Project Screenshot][(5-Dashboard//Dashboard Image.png)](https://github.com/Sarfraj-Ahmad-ux/Smart-Logistics-And-Supply-Chain-Performance-Analysis/blob/37277e145bb96469c808455823412eaa786b288d/5-Dashboard/Dashboard%20Image.png)
+![Project Screenshot](https://github.com/Sarfraj-Ahmad-ux/Smart-Logistics-And-Supply-Chain-Performance-Analysis/blob/37277e145bb96469c808455823412eaa786b288d/5-Dashboard/Dashboard%20Image.png)
 
 
 ## Data Pipeline & Workflow Architecture
